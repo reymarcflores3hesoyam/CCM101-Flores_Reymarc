@@ -25,13 +25,13 @@ This laboratory activity focuses on understanding the basic components of cloud 
 ## Tools Used
 - GitHub
 - KillerCoda Playground
-- Linux Terminal
+- Ubuntu Terminal
 - Draw.io / Canva
 - Markdown
 
 ---
 
-## Linux Commands Executed
+## ubuntu Commands Executed
 - `cat /etc/os-release`
 - `uname -r`
 - `lscpu`
@@ -45,7 +45,7 @@ This laboratory activity focuses on understanding the basic components of cloud 
 ---
 
 ## Skills Learned
-- Basic Linux command usage
+- Basic ubuntu command usage
 - Cloud infrastructure concepts
 - Technical documentation using Markdown
 - GitHub repository management
