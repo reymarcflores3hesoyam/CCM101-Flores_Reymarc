@@ -1,3 +1,33 @@
 # Infrastructure Report
 
-This report contains information gathered from the KillerCoda Linux server.
+## Operating System
+(To be filled after running `cat /etc/os-release`)
+
+## Kernel Version
+6.8.0-136-generic
+
+## CPU Model
+Intel Xeon E312xx (Sandy Bridge, IBRS update)
+
+## Number of CPU Cores
+1
+
+## Total RAM
+1.9 GiB
+
+## Disk Capacity
+19G (/dev/vda1)
+
+## Mounted File Systems
+- /run
+- /dev/shm
+- /run/lock
+- /boot
+- /boot/efi
+
+## Hostname
+ubuntu
+
+## IP Address
+172.30.1.2
+172.17.0.1
