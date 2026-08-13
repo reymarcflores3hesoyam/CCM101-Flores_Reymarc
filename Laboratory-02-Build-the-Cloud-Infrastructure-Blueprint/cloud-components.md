@@ -1,4 +1,4 @@
-<img width="1839" height="852" alt="image" src="https://github.com/user-attachments/assets/f65a1097-0fe8-4529-92a4-53b9e9d1d67a" /># Cloud Infrastructure Components
+# Cloud Infrastructure Components
 
 ## Compute Resources
 
