@@ -6,7 +6,7 @@
 AWS
 
 ### Recommendation
-I would recommend AWS for this startup because it has many services that can be used to build and support a mobile application. The company can start with the resources it needs and increase them as the number of users grows. AWS also has services for computing, storage, and databases. This makes it a good option for a startup that needs to manage its budget while preparing for future growth.
+I recommend AWS because it has many services for building a mobile application. The company can start small and add more resources as the number of users increases. AWS also provides services for computing, storage, and databases.
 
 ### Recommended Services
 - Amazon EC2
@@ -21,7 +21,7 @@ I would recommend AWS for this startup because it has many services that can be 
 Microsoft Azure
 
 ### Recommendation
-I would recommend Microsoft Azure because the university is already using Windows Server, Microsoft 365, and Active Directory. Azure works well with these Microsoft technologies, which can make the transition to the cloud easier. It can also help the university manage users and access to its cloud resources. Azure is also a good option for supporting a hybrid cloud setup.
+I recommend Microsoft Azure because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft products. It can also help manage users and cloud resources.
 
 ### Recommended Services
 - Azure Virtual Machines
@@ -36,7 +36,7 @@ I would recommend Microsoft Azure because the university is already using Window
 Google Cloud Platform (GCP)
 
 ### Recommendation
-I would recommend Google Cloud Platform because the company focuses on Artificial Intelligence and Machine Learning. It provides computing resources that can be used for high-performance workloads. GCP also has services for Kubernetes and data processing. These services can help the company develop and run its AI applications.
+I recommend GCP because the company works with Artificial Intelligence and Machine Learning. GCP has services for computing, data processing, and Kubernetes. These services can help the company build and run AI applications.
 
 ### Recommended Services
 - Compute Engine
@@ -51,7 +51,7 @@ I would recommend Google Cloud Platform because the company focuses on Artificia
 AWS
 
 ### Recommendation
-I would recommend AWS because the company needs infrastructure that can handle customers from different parts of the world. AWS provides scalable and highly available services that can support an e-commerce website. Resources can also be adjusted when there is an increase in website traffic. This can help the company maintain good availability during busy periods.
+I recommend AWS because the company has customers from different parts of the world. AWS can handle large amounts of website traffic and can scale when needed. This can help keep the e-commerce website available during busy times.
 
 ### Recommended Services
 - Amazon EC2
@@ -64,9 +64,9 @@ I would recommend AWS because the company needs infrastructure that can handle c
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
-| Startup Company | AWS | Provides many services and can scale as the company grows |
-| Enterprise Organization | AWS | Offers a wide range of services for enterprise workloads |
-| Microsoft Environment | Microsoft Azure | Works well with Microsoft technologies |
-| AI / Machine Learning | Google Cloud | Provides strong AI and Machine Learning services |
-| Kubernetes Deployment | Google Cloud | Provides Google Kubernetes Engine for managed Kubernetes |
-| Global Web Application | AWS | Provides scalable infrastructure for applications serving users worldwide |
+| Startup Company | AWS | Has many services and can grow with the company |
+| Enterprise Organization | AWS | Has many services for large organizations |
+| Microsoft Environment | Microsoft Azure | Works well with Microsoft products |
+| AI / Machine Learning | Google Cloud | Has strong AI and Machine Learning services |
+| Kubernetes Deployment | Google Cloud | Has Google Kubernetes Engine (GKE) |
+| Global Web Application | AWS | Can support websites with users around the world |
