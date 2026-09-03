@@ -32,7 +32,3 @@ If this Linux server were migrated to the cloud, it could be hosted using:
 | AWS | Amazon EC2 |
 | Azure | Azure Virtual Machines |
 | GCP | Compute Engine |
-
-## KillerCoda Screenshot
-
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
