@@ -45,6 +45,3 @@ AWS Identity and Access Management (IAM) controls access to AWS resources by man
 - Disaster recovery
 - Data processing and analytics
 
-## Screenshot
-
-![AWS Homepage](screenshots/aws-homepage.png)
