@@ -3,78 +3,70 @@
 ## Client A – Startup Company
 
 ### Recommended Platform
-
 AWS
 
 ### Recommendation
-
-AWS is a suitable choice for the startup because it provides many cloud services that can support a mobile application. The company can start with a small amount of computing and storage resources and scale as its users increase. AWS also provides services that can support application development, databases, and storage. This makes it practical for a startup that expects rapid growth.
+AWS is a suitable choice for a startup because it provides many cloud services that can support a growing mobile application. The startup can begin with smaller resources and scale them as the number of users increases. AWS also provides services for computing, storage, and databases. This can help the company manage costs while preparing for future growth.
 
 ### Recommended Services
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
 
-1. Amazon EC2
-2. Amazon S3
-3. Amazon RDS
-
+---
 
 ## Client B – University
 
 ### Recommended Platform
-
 Microsoft Azure
 
 ### Recommendation
-
-Azure is a suitable choice for the university because it already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft's ecosystem, which can make migration and identity management easier. The university can continue using familiar Microsoft technologies while moving selected services to the cloud.
+Microsoft Azure is a suitable choice because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure provides strong integration with Microsoft's existing technologies. This can make migration and identity management easier for the university. Azure can also support hybrid cloud environments.
 
 ### Recommended Services
+- Azure Virtual Machines
+- Azure Blob Storage
+- Microsoft Entra ID
 
-1. Azure Virtual Machines
-2. Azure Blob Storage
-3. Microsoft Entra ID
-
+---
 
 ## Client C – AI Research Company
 
 ### Recommended Platform
-
-Google Cloud Platform
+Google Cloud Platform (GCP)
 
 ### Recommendation
-
-Google Cloud is a strong choice for an AI research company because it provides infrastructure and services for artificial intelligence and machine learning workloads. It offers high-performance computing resources and specialized infrastructure for demanding workloads. Google Cloud also provides services for data processing and machine learning development.
+Google Cloud is a strong choice for an AI and Machine Learning research company because it provides services designed for AI workloads and high-performance computing. The company can use scalable computing resources for demanding workloads. Google Cloud also provides strong Kubernetes and data processing capabilities. These services can support the development and deployment of AI applications.
 
 ### Recommended Services
+- Compute Engine
+- Cloud TPU
+- Google Kubernetes Engine (GKE)
 
-1. Compute Engine
-2. Cloud TPU
-3. Google Kubernetes Engine
-
+---
 
 ## Client D – Global E-Commerce Company
 
 ### Recommended Platform
-
 AWS
 
 ### Recommendation
-
-AWS is a suitable choice for a global e-commerce company because it provides a large global infrastructure and scalable cloud services. The company can distribute workloads across different locations to support customers around the world. AWS also provides services for load balancing, computing, storage, and automatic scaling. These capabilities can help support a highly available online shopping platform.
+AWS is a suitable choice for a global e-commerce company because it provides scalable and highly available cloud infrastructure. The company can deploy applications across different geographic locations to serve customers around the world. AWS also provides services that can automatically scale resources based on demand. This can help maintain availability during periods of high traffic.
 
 ### Recommended Services
+- Amazon EC2
+- Amazon S3
+- Elastic Load Balancing
 
-1. Amazon EC2
-2. Amazon S3
-3. Elastic Load Balancing
+---
 
-
-## Multi-Cloud Decision Matrix
+# Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
-| Startup Company | AWS | Broad services and scalable infrastructure |
-| Enterprise Organization | AWS | Wide range of enterprise cloud services |
-| Microsoft Environment | Azure | Strong Microsoft ecosystem integration |
-| AI / Machine Learning | GCP | Strong AI/ML capabilities |
-| Kubernetes Deployment | GCP | Strong Kubernetes capabilities through GKE |
-| Global Web Application | AWS | Large global infrastructure and scalable services |
+| Startup Company | AWS | Wide range of services and scalable infrastructure |
+| Enterprise Organization | AWS | Broad enterprise cloud services |
+| Microsoft Environment | Microsoft Azure | Strong integration with Microsoft technologies |
+| AI / Machine Learning | Google Cloud | Strong AI and ML capabilities |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine provides managed Kubernetes |
+| Global Web Application | AWS | Global infrastructure and scalable services |
