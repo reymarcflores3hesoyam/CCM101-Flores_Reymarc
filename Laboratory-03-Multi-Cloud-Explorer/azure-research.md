@@ -45,6 +45,3 @@ Microsoft Entra ID is Microsoft's cloud-based identity and access management ser
 - Business applications
 - Hybrid cloud environments
 
-## Screenshot
-
-![Azure Homepage](screenshots/azure-homepage.png)
