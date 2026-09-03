@@ -45,6 +45,3 @@ Google Kubernetes Engine is a managed environment for deploying and managing con
 - Containerized applications
 - Kubernetes deployments
 
-## Screenshot
-
-![GCP Homepage](screenshots/gcp-homepage.png)
