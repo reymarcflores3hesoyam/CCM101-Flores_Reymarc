@@ -1,4 +1,5 @@
 Overview
+
 This lab explores container technology and Docker fundamentals. Key tasks include contrasting virtual machines with containers, navigating the KillerCoda Docker interface, running an Nginx container, and controlling container lifecycles.
 
 Core Objectives
