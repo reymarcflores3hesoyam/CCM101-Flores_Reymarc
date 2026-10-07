@@ -1,23 +1,13 @@
-# Mission 6: The Cloud Deployment Engineer
+# Docker Compose Guide
 
-## Mission Overview
+## What Does the services: Block Do?
 
-This mission focused on deploying a multi-tier private cloud storage application using Docker Compose. The application used Nextcloud as the web application and MariaDB as the database.
+The services: block defines the containers that will be created and managed by Docker Compose. In this project, there are two services: database and app.
 
-## Objectives
+## How Does the Nextcloud App Find the Database?
 
-- Understand multi-tier application architecture.
-- Create a Docker Compose YAML configuration.
-- Deploy Nextcloud and MariaDB containers.
-- Use Docker Compose to manage multiple containers.
-- Document the deployment using Markdown.
+The Nextcloud app finds the database using the MYSQL_HOST environment variable. The value is set to database, which is the name of the MariaDB service.
 
-## Commands Executed
+## docker run vs docker-compose up -d
 
-```bash
-mkdir nextcloud-deployment
-cd nextcloud-deployment
-nano docker-compose.yml
-docker-compose up -d
-docker-compose ps
-docker-compose down
+The docker run command is normally used to create and start an individual container. Docker Compose uses a YAML configuration file to define multiple services and can start the complete application stack using one command.
